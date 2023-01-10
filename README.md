@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**P-Paridhi/P-Paridhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Paridhi Bhagwat :woman_technologist:
 
-Here are some ideas to get you started:
+Skills : C/ Java/ HTML/ CSS/ JS/ Python/ Matlab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎓 Persuing B.Tech at MKSSS's Cummins College of Engineering for Women, Pune
+🌱 Polishing my Problem Solving Skills in Data Structures and Competitive Coding
+💬 Ask me about Data Structures
+📫 How to reach me: paridhibhagwat2002@gmail.com
+
+Connect With me: 
+linkedin       geeksforgeeks       leetcode      hackerrank       codechef
