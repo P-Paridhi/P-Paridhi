@@ -13,6 +13,6 @@ Skills : C/ Java/ HTML/ CSS/ JS/ Python/ Matlab
 
 📫 How to reach me: paridhibhagwat2002@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Paridhi)](https://github.com/P-Paridhi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Paridhi)]([https://github.com/P-Paridhi/github-readme-stats](https://github.com/P-Paridhi))
 
 
