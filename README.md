@@ -2,7 +2,7 @@
 
 # I am Paridhi Bhagwat :woman_technologist:
 
-Skills : C/ Java/ HTML/ CSS/ JS/ Python/ Matlab
+### Skills : C/ Java/ HTML/ CSS/ JS/ Python/ Matlab
 
 #
 🎓 Persuing B.Tech at MKSSS's Cummins College of Engineering for Women, Pune
