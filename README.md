@@ -4,11 +4,15 @@
 
 Skills : C/ Java/ HTML/ CSS/ JS/ Python/ Matlab
 
-
+#
 🎓 Persuing B.Tech at MKSSS's Cummins College of Engineering for Women, Pune
+
 🌱 Polishing my Problem Solving Skills in Data Structures and Competitive Coding
+
 💬 Ask me about Data Structures
+
 📫 How to reach me: paridhibhagwat2002@gmail.com
 
-Connect With me: 
-linkedin       geeksforgeeks       leetcode      hackerrank       codechef
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Paridhi)](https://github.com/anuraghazra/github-readme-stats)
+
+
